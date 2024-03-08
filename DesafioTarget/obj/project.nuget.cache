@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CQwqMAC/oVnD7rwo6K0J4M80w5qlnA1EOdColFxVTh6Csi83p/kDQG8wzM6lttrpnDu3P2jV59yD3VE5MdYY1w==",
+  "success": true,
+  "projectFilePath": "C:\\Desafio-Target\\DesafioTarget\\DesafioTarget.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\celadm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\celadm\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\celadm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\celadm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

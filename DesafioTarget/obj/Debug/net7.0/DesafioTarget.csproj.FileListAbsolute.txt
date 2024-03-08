@@ -1,0 +1,15 @@
+C:\Desafio-Target\DesafioTarget\bin\Debug\net7.0\DesafioTarget.exe
+C:\Desafio-Target\DesafioTarget\bin\Debug\net7.0\DesafioTarget.deps.json
+C:\Desafio-Target\DesafioTarget\bin\Debug\net7.0\DesafioTarget.runtimeconfig.json
+C:\Desafio-Target\DesafioTarget\bin\Debug\net7.0\DesafioTarget.dll
+C:\Desafio-Target\DesafioTarget\bin\Debug\net7.0\DesafioTarget.pdb
+C:\Desafio-Target\DesafioTarget\obj\Debug\net7.0\DesafioTarget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desafio-Target\DesafioTarget\obj\Debug\net7.0\DesafioTarget.AssemblyInfoInputs.cache
+C:\Desafio-Target\DesafioTarget\obj\Debug\net7.0\DesafioTarget.AssemblyInfo.cs
+C:\Desafio-Target\DesafioTarget\obj\Debug\net7.0\DesafioTarget.csproj.CoreCompileInputs.cache
+C:\Desafio-Target\DesafioTarget\obj\Debug\net7.0\DesafioTarget.sourcelink.json
+C:\Desafio-Target\DesafioTarget\obj\Debug\net7.0\DesafioTarget.dll
+C:\Desafio-Target\DesafioTarget\obj\Debug\net7.0\refint\DesafioTarget.dll
+C:\Desafio-Target\DesafioTarget\obj\Debug\net7.0\DesafioTarget.pdb
+C:\Desafio-Target\DesafioTarget\obj\Debug\net7.0\DesafioTarget.genruntimeconfig.cache
+C:\Desafio-Target\DesafioTarget\obj\Debug\net7.0\ref\DesafioTarget.dll
